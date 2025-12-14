@@ -1,0 +1,9 @@
+{
+    "active": true,
+    "target_url": "http://192.168.1.191:8080",
+    "start_h": 17,
+    "start_m": 2,
+    "stop_h": 17,
+    "stop_m": 8,
+    "interval": 1
+}
